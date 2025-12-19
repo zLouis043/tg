@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="tetris_bg">#000000</color>
+    <color name="color_T">#B036B0</color>
+    <color name="color_J">#3636B0</color>
+    <color name="color_Z">#B03636</color>
+    <color name="color_O">#B0B036</color>
+    <color name="color_S">#36B036</color>
+    <color name="color_L">#B07536</color>
+    <color name="color_I">#36B0B0</color>
+    <color name="grid_line">#1A1A1A</color>
+    <color name="bg_soft_dark">#1A1A1A</color>
+    <color name="frame_grey">#444444</color>
+    <color name="gb_red">#B71C1C</color>
+    <color name="dpad_dark">#212121</color>
+    <color name="box_bg_light">#333333</color>
+    <color name="pad_bg">#222222</color>
+    <color name="color_dead">#888888</color>
+</resources>
